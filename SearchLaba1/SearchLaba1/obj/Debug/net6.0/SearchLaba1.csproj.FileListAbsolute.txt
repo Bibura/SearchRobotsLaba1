@@ -1,0 +1,17 @@
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.csproj.AssemblyReference.cache
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.AssemblyInfoInputs.cache
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.AssemblyInfo.cs
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.csproj.CoreCompileInputs.cache
+G:\Projects\SearchLaba1\SearchLaba1\bin\Debug\net6.0\SearchLaba1.exe
+G:\Projects\SearchLaba1\SearchLaba1\bin\Debug\net6.0\SearchLaba1.deps.json
+G:\Projects\SearchLaba1\SearchLaba1\bin\Debug\net6.0\SearchLaba1.runtimeconfig.json
+G:\Projects\SearchLaba1\SearchLaba1\bin\Debug\net6.0\SearchLaba1.dll
+G:\Projects\SearchLaba1\SearchLaba1\bin\Debug\net6.0\SearchLaba1.pdb
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.dll
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\refint\SearchLaba1.dll
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.pdb
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.genruntimeconfig.cache
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\ref\SearchLaba1.dll
+G:\Projects\SearchLaba1\SearchLaba1\bin\Debug\net6.0\HtmlAgilityPack.dll
+G:\Projects\SearchLaba1\SearchLaba1\obj\Debug\net6.0\SearchLaba1.csproj.CopyComplete
